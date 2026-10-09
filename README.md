@@ -1,8 +1,8 @@
 # HomeLab & Private Cloud Infrastructure
 
-### This repository documents the architecture, configuration, and deployment of my self-hosting infrastructure (HomeLab). The goal of this project is to maintain a sovereign, secure, and automated private cloud, while serving as an experimental environment for my Data Science and AI workloads.
-
 🌐 **Language / Langue** : **English 🇬🇧** • [Français 🇫🇷](README.fr.md)
+
+This repository documents the architecture, configuration, and deployment of my self-hosting infrastructure (HomeLab). The goal of this project is to maintain a sovereign, secure, and automated private cloud, while serving as an experimental environment for my Data Science and AI workloads.
 
 ---
 
